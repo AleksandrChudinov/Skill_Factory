@@ -95,7 +95,7 @@ body * {
   font-style: italic;
 }
 .hero {
-  background-image: url(/./img/hero.jpg);
+  background-image: url(../img/hero.jpg);
   background-size: cover;
   height: 707px;
   padding-top: 194px;
